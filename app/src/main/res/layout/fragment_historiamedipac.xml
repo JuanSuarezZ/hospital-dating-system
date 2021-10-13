@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/textcontenedor"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+        <RelativeLayout
+            android:id="@+id/contenedor"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_below="@+id/textcontenedor"
+            android:layout_marginTop="0dp">
+
+            <TextView
+                android:id="@+id/textospiner"
+                android:layout_width="106dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:text="Doctores"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="106dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textospiner"
+                android:layout_marginStart="15dp"
+                android:spinnerMode="dropdown"
+                style="@android:style/Animation"
+                />
+
+            <TextView
+                android:id="@+id/textoespecilidad"
+                android:layout_width="106dp"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/spinner2"
+                android:layout_marginStart="14dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="-1dp"
+                android:layout_toEndOf="@id/textospiner"
+                android:gravity="center"
+                android:text="Especialidad"
+                app:layout_constraintStart_toStartOf="@id/textospiner"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Spinner
+                android:id="@+id/spinner2"
+                android:layout_width="106dp"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/spinner1"
+                android:layout_below="@+id/textospiner"
+                android:layout_marginStart="15dp"
+                android:spinnerMode="dropdown" />
+
+            <ImageView
+                android:id="@+id/calendar"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="20dp"
+                android:layout_toEndOf="@id/textoespecilidad"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_baseline_calendar_today_24"
+                tools:ignore="VectorDrawableCompat" />
+
+            <ImageView
+                android:id="@+id/search"
+                android:layout_width="54dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="19dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginRight="10dp"
+                android:layout_toEndOf="@id/calendar"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_search"
+                tools:ignore="VectorDrawableCompat" />
+
+
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/contenedorRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/contenedor"
+            android:layout_marginTop="0dp"
+            android:backgroundTint="#FFFFFF"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="1dp"
+            app:cardUseCompatPadding="true"
+            tools:ignore="MissingConstraints">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerHistoriaMedica"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true">
+            </androidx.recyclerview.widget.RecyclerView>
+
+            <com.github.clans.fab.FloatingActionMenu
+                android:id="@+id/fabmenu"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="end|bottom"
+                >
+
+                <com.github.clans.fab.FloatingActionButton
+                    android:id="@+id/fab"
+                    android:layout_width="49dp"
+                    android:layout_height="52dp"
+                    android:layout_margin="5dp"
+                    app:fab_label="Restart"
+                    android:src="@drawable/ic_rest"
+                    tools:ignore="MissingConstraints,VectorDrawableCompat"
+                    tools:layout_editor_absoluteX="345dp"
+                    tools:layout_editor_absoluteY="636dp"/>
+
+                <com.github.clans.fab.FloatingActionButton
+                    android:id="@+id/fab2"
+                    android:layout_width="49dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="5dp"
+                    app:fab_label="Guardar como pdf"
+                    tools:layout_editor_absoluteX="345dp"
+                    tools:layout_editor_absoluteY="636dp"
+                    android:elevation="50dp"
+                    android:src="@drawable/ic_download"
+                    app:borderWidth="15dp" />
+
+            </com.github.clans.fab.FloatingActionMenu>
+
+
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+
+
+</RelativeLayout>

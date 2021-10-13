@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyectocomp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".reportes3" />
+        <activity android:name=".reportes2" />
+        <activity android:name=".reportes1" />
+        <activity android:name=".menuAdmin" />
+        <activity android:name=".loginAdmin" />
+        <activity
+            android:name=".NavegarionDrawerPac"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".SelectEspecialidades" />
+        <activity android:name=".panCarga" />
+        <activity
+            android:name=".NavegationDrawerDoc"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".cambiarContra2" />
+        <activity android:name=".validarCodigo2" />
+        <activity android:name=".RecuperacionP" />
+        <activity android:name=".CambiarContra" />
+        <activity android:name=".ValidarCodigo" />
+        <activity android:name=".RecuperacionM" />
+        <activity android:name=".loginDoc" />
+        <activity android:name=".Paciente" />
+        <activity android:name=".RegistroDoc" />
+        <activity android:name=".RegistroPa" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

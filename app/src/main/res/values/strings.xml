@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">proyectocomp</string>
+    <string name="title_activity_registro_p">RegistroP</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="log_out">Log out</string>
+    <string name="title_activity_menu_doc">MenuDoc</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="historias_medicas">Historias Medicas</string>
+    <string name="title_activity_menu_para_doc">MenuParaDoc</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

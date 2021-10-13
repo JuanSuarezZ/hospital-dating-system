@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".panCarga">
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style=""
+        android:layout_width="356dp"
+        android:layout_height="616dp"
+        android:layout_margin="16dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtPancarga"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/txtPancarga"
+        android:layout_width="308dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="16dp"
+
+        android:text="Iniciando Sesión"
+        android:textSize="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

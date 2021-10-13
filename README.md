@@ -9,6 +9,10 @@ Screenshots:<br>
 <td><img src="assets/cap2.png" height="500" /></td>
 <td><img src="assets/cap3.png" height="500" /></td>
 </tr>
+<tr>
+<td><img src="assets/cap4.png" height="500" /></td>
+<td><img src="assets/cap5.png" height="500" /></td>
+</tr>
 </table>
 
 

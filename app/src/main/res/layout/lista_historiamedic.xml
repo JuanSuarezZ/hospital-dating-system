@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/nombre_paciente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="nombre paciente"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/fechaCita"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nombre_paciente"
+            android:layout_marginTop="10dp"
+            android:text="fecha cita"
+            android:textSize="16dp"></TextView>
+
+
+        <TextView
+            android:id="@+id/hora"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/fechaCita"
+            android:layout_marginTop="10dp"
+            android:text="hora"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/Especialidad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/hora"
+            android:layout_marginTop="10dp"
+            android:text="Especialidad"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/descripcionhm"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/Especialidad"
+            android:layout_marginTop="10dp"
+            android:background="#D5D8DC"
+            android:gravity="center_horizontal"
+            android:text="descripcion"
+            android:textSize="16dp">
+
+        </TextView>
+
+
+    </RelativeLayout>
+
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/historia"
+                android:icon="@drawable/ic_folder"
+                android:title="Historias Medicas">
+            </item>
+            <item
+                android:id="@+id/Citas"
+                android:icon="@drawable/ic_pendiente"
+                android:title="citas pendientes">
+            </item>
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/Exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Cerrar Sesion">
+            </item>
+        </menu>
+    </item>
+
+
+
+</menu>

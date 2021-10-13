@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="251dp"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/imagenCita"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ic_foto"></ImageView>
+
+        <TextView
+            android:id="@+id/nombrepersonals"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_toEndOf="@id/imagenCita"
+            android:text="nombre persona"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/nombredoctorls"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nombrepersonals"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/imagenCita"
+            android:text="nombre doctor"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/fechaCita"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nombredoctorls"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/imagenCita"
+            android:text="fecha de la cita"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/horaCita"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/fechaCita"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/imagenCita"
+            android:text="hora de la cita"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/Estado_cita"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/horaCita"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/imagenCita"
+            android:text="Estado de la cita"
+            android:textSize="16dp"></TextView>
+
+        <TextView
+            android:id="@+id/Especialidad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Estado_cita"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/imagenCita"
+            android:text="Especialidad"
+            android:textSize="16dp"></TextView>
+
+        <View
+            android:id="@+id/divier"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/Especialidad"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/darker_gray" />
+
+        <ImageView
+            android:id="@+id/btnRealizado"
+            style="@style/TextAppearance.AppCompat.Widget.Button"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_below="@id/divier"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="9dp"
+            android:src="@drawable/ic_check"></ImageView>
+
+        <ImageView
+            android:id="@+id/btnCancelar"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_below="@id/divier"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/btnRealizado"
+            android:src="@drawable/ic_cancelar"></ImageView>
+
+        <ImageView
+            android:id="@+id/btnEdit"
+            style="@style/TextAppearance.AppCompat.Widget.Button"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/divier"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="22dp"
+            android:src="@drawable/ic_edit"></ImageView>
+
+
+    </RelativeLayout>
+
+
+
+</androidx.cardview.widget.CardView>

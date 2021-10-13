@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".reportes2">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/encabezado"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+
+        android:elevation="50dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                style=""
+                android:layout_width="368dp"
+                android:layout_height="510dp"
+                android:layout_margin="16dp"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtPancarga"
+                tools:visibility="visible" />
+
+            <com.github.mikephil.charting.charts.PieChart
+                android:id="@+id/graficopastel"
+                android:layout_width="361dp"
+                android:layout_height="507dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.737"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/spinner"
+                tools:ignore="MissingConstraints">
+
+            </com.github.mikephil.charting.charts.PieChart>
+
+            <TextView
+                android:id="@+id/txttitle"
+                android:layout_width="177dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="36dp"
+                android:gravity="center"
+                android:text="Citas Totales"
+                android:textSize="20dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/calendar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="2dp"
+                android:layout_weight="1"
+                app:layout_constraintEnd_toStartOf="@+id/spinner"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txttitle"
+                app:srcCompat="@drawable/ic_baseline_calendar_today_24"
+                tools:ignore="VectorDrawableCompat" />
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="108dp"
+                android:layout_height="42dp"
+                android:layout_below="@+id/textospiner"
+                android:layout_marginTop="20dp"
+                android:spinnerMode="dropdown"
+                app:layout_constraintEnd_toStartOf="@+id/spinner2"
+                app:layout_constraintTop_toBottomOf="@+id/txttitle" />
+
+            <Spinner
+                android:id="@+id/spinner2"
+                android:layout_width="120dp"
+                android:layout_height="41dp"
+                android:layout_below="@+id/textospiner"
+                android:layout_marginTop="20dp"
+                android:spinnerMode="dropdown"
+                app:layout_constraintEnd_toStartOf="@+id/btnrestart"
+                app:layout_constraintTop_toBottomOf="@+id/txttitle" />
+
+            <Button
+                android:id="@+id/btnrestart"
+                android:layout_width="84dp"
+                android:layout_height="46dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="4dp"
+                android:text="Todas"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txttitle"
+                app:srcCompat="@drawable/ic_clock"
+                tools:ignore="VectorDrawableCompat" />
+
+            <TextView
+                android:gravity="center"
+                android:id="@+id/txtnumerocitas"
+                android:layout_width="214dp"
+                android:layout_height="61dp"
+                android:text=""
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/spinner2" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,986 @@
+[
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_foto.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reportes2.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_reportes2.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recuperacion_m.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_recuperacion_m.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reportes1.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_reportes1.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registro_doc.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_registro_doc.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pendiente.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pendiente.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pendiente.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_download.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cancelar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cancelar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_historiamedipac.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\fragment_historiamedipac.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_linechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\linechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_down.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pan_carga2.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_pan_carga2.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pan_carga.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_pan_carga.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_textsms_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_textsms_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_folder.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_degradado.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable\\degradado.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pedircitapac.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\fragment_pedircitapac.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cancelar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cancelar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registro_pa.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_registro_pa.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_clock.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_foto.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_validar_codigo.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_validar_codigo.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_textsms_24.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_textsms_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_check.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hospiptal.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hospiptal.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_bookmark_border_24.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_bookmark_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_alerta3.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\alerta3.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_foto.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_down.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recuperacion_p.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_recuperacion_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_citasdocfragment.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\citasdocfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_textsms_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_textsms_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_graficobar.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\graficobar.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_especialidadpac.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\lista_especialidadpac.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cambiar_contra.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_cambiar_contra.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_download.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pendiente.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_charpie.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\charpie.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_check.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_clock.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer2_menu.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\menu\\drawer2_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_hospiptal.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hospiptal.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_paciente.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_download.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pendiente.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_graficobar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\graficobar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_check.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_graficobar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\graficobar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cambiar_contra2.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_cambiar_contra2.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_linechart.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\linechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pendiente.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_alerta2.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\alerta2.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_myhistorial.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_myhistorial.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_download.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hospiptal.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hospiptal.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_download.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_paciente.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\lista_paciente.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_download.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_alerta1.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\alerta1.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_linechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\linechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_down.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_admin.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\menu_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_textsms_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_textsms_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_rest.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_rest.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_navegarion_drawer_pac.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_navegarion_drawer_pac.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_citasdoc.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\lista_citasdoc.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_fragment.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hospiptal.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hospiptal.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_doctorespac.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\lista_doctorespac.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pendiente.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_charpie.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\charpie.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_linechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\linechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hospiptal.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hospiptal.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reportes3.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_reportes3.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tablechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\tablechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_graficobar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\graficobar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tablechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\tablechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_myhistorial.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_myhistorial.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cancelar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cancelar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rest.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_rest.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_tablechart.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\tablechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cita.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cita.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_download.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hospiptal.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hospiptal.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_textsms_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_textsms_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_historiamedic.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\lista_historiamedic.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_foto.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_textsms_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_textsms_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tablechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\tablechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_doc.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_login_doc.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hospiptal.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hospiptal.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_linechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\linechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cita.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cita.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_rest.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_rest.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_historiam_fragment.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\historiam_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_light.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\font\\roboto_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rest.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_rest.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_folder.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_textsms_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_textsms_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_myhistorial.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_myhistorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_myhistorial.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_myhistorial.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_charpie.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\charpie.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tablechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\tablechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_foto.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cita.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cita.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pendiente.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pendiente.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_graficobar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\graficobar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_linechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\linechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_check.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cancelar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cancelar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rest.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_rest.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_charpie.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\charpie.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_charpie.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\charpie.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style1.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable\\style1.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_graficobar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\graficobar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_especialidad.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\lista_especialidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_foto.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_admin.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\login_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_especialidades.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_select_especialidades.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_linechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\linechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_myhistorial.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_myhistorial.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cancelar.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cancelar.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_navegation_drawer_doc.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_navegation_drawer_doc.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tablechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\tablechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_foto.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cita.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cita.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_charpie.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\charpie.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_graficobar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\graficobar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rest.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_rest.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_arrow.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_doc.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\menu\\menu_doc.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cita.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cita.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rest.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_rest.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_toolbar.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\drawer_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_charpie.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\charpie.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_myhistorial.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_myhistorial.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_validar_codigo2.xml.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\layout\\activity_validar_codigo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cita.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cita.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cancelar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cancelar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cita.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cita.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tablechart.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\tablechart.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cancelar.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cancelar.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_down.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_clock.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_myhistorial.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_myhistorial.png"
+    },
+    {
+        "merged": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\souki\\StudioProjects\\proyectocomp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    }
+]

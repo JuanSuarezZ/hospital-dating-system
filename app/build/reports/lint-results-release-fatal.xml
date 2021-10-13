@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 4.0.1">
+
+    <issue
+        id="DuplicatePlatformClasses"
+        severity="Fatal"
+        message="`json` defines classes that conflict with classes now provided by Android. Solutions include finding newer versions or alternative libraries that don&apos;t have the same problem (for example, for `httpclient` use `HttpUrlConnection` or `okhttp` instead), or repackaging the library using something like `jarjar`."
+        category="Correctness"
+        priority="8"
+        summary="Duplicate Platform Classes"
+        explanation="There are a number of libraries that duplicate not just functionality of the Android platform but using the exact same class names as the ones provided in Android -- for example the apache http classes. This can lead to unexpected crashes.&#xA;&#xA;To solve this, you need to either find a newer version of the library which no longer has this problem, or to repackage the library (and all of its dependencies) using something like the `jarjar` tool, or finally, rewriting the code to use different APIs (for example, for http code, consider using `HttpUrlConnection` or a library like `okhttp`).">
+        <location
+            file="C:\Users\Administrador\AndroidStudioProjects\proyectocomp\app\build.gradle"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@+id/button8` is not a sibling in the same `ConstraintLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="        app:layout_constraintEnd_toStartOf=&quot;@+id/button8&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\Administrador\AndroidStudioProjects\proyectocomp\app\src\main\res\layout\activity_cambiar_contra2.xml"
+            line="41"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@+id/btnCancelar2` is not a sibling in the same `ConstraintLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="        app:layout_constraintEnd_toStartOf=&quot;@+id/btnCancelar2&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\Administrador\AndroidStudioProjects\proyectocomp\app\src\main\res\layout\activity_recuperacion_p.xml"
+            line="45"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@+id/button6` is not a sibling in the same `ConstraintLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="        app:layout_constraintEnd_toStartOf=&quot;@+id/button6&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\Administrador\AndroidStudioProjects\proyectocomp\app\src\main\res\layout\activity_validar_codigo2.xml"
+            line="66"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="NotSibling"
+        severity="Fatal"
+        message="`@+id/txtPancarga` is not a sibling in the same `ConstraintLayout`"
+        category="Correctness"
+        priority="6"
+        summary="Invalid Constraints"
+        explanation="Layout constraints in a given `ConstraintLayout` or `RelativeLayout` should reference other views within the same relative layout (but not itself!)"
+        errorLine1="        app:layout_constraintTop_toBottomOf=&quot;@+id/txtPancarga&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\Administrador\AndroidStudioProjects\proyectocomp\app\src\main\res\layout\citasdocfragment.xml"
+            line="141"
+            column="9"/>
+    </issue>
+
+</issues>

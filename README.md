@@ -5,9 +5,9 @@ A proyect developed in native android, SQL and a Flask Server for a hostpital da
 Screenshots:<br>
 <table>
 <tr>
-<td><img src="assets/cap1.png" title="Resultado final taller de flutter basico" height="500" /></td>
-<td><img src="assets/cap2.png" title="Resultado final taller de flutter basico" height="500" /></td>
-<td><img src="assets/cap3.png" title="Resultado final taller de flutter basico" height="500" /></td>
+<td><img src="assets/cap1.png" height="500" /></td>
+<td><img src="assets/cap2.png" height="500" /></td>
+<td><img src="assets/cap3.png" height="500" /></td>
 </tr>
 </table>
 

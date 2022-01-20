@@ -1,6 +1,6 @@
 # hospital-dating-system
 
-A proyect developed in native android, SQL and a Flask Server for a hostpital dating system 
+A proyect developed in native android, PostgresSQL and a Flask Server for a hostpital dating system 
 
 Screenshots:<br>
 <table>
